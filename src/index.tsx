@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-import { Button } from "./components";
+import { Button } from "../dist";
 
 const App = () => {
   return (
